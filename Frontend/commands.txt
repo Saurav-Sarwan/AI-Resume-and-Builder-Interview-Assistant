@@ -1,0 +1,5 @@
+npm create vite@model .
+npm i sass
+npm i react-router
+npm i axios
+npm install @google/genai

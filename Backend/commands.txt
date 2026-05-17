@@ -1,0 +1,10 @@
+npx nodemon server.js
+npm i express mangoose dotenv
+npm i bcryptjs jsonwebtoken cookie-parser
+npm i cors
+npm install @google/genai
+npm i zod
+npm i zod-to-json-schema
+npm i multer                // to handle pdf files
+npm i pdf-parse             // to read the text in the pdf
+npm i puppeteer
