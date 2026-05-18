@@ -3,7 +3,7 @@
 An AI-powered full-stack web application that analyzes your resume and a target job description to generate a personalized interview strategy — including technical and behavioral questions, skill gap analysis, a day-wise preparation plan, and a tailored resume PDF.
 
 ---
-### Live Demo - https://ai-resume-builder-frontend-iota.vercel.app/login
+### Live Demo - https://ai-resume-builder-frontend-iota.vercel.app
 ---
 
 ## Features
